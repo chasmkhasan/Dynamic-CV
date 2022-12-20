@@ -830,3 +830,10 @@ h3.my-profession
         max-width: 100%;
     }
 }
+
+.download {
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 20px;
+    color: teal;
+}
